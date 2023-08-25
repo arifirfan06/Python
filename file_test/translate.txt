@@ -1,0 +1,1 @@
+Testing program translate .As a program with nice syntax this should be easy
